@@ -12,7 +12,7 @@
 ---
 
 ## 📂 **Portfolio**  
-- [📝 포트폴리오 페이지](https://marsh-whitefish-61e.notion.site/FullStack-Developer-165e6594e42b803a8363c0330cb185c4?pvs=4)
+- [📝 포트폴리오 페이지]([https://marsh-whitefish-61e.notion.site/FullStack-Developer-165e6594e42b803a8363c0330cb185c4?pvs=4](https://just-truffle-78d.notion.site/16991c59aa3780eb85e6f9eb3f717a80?p=16991c59aa3781779f80f6326cc4d9ef&pm=c))
 
 ---
 
