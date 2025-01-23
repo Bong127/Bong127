@@ -78,5 +78,5 @@
 
 ## 📞 **Contact Me**  
 
-- 📧 **Email:** [jstar3183@gmail.com](mailto:jstar3183@gmail.com)
-- 📱 **Phone:** 010-2326-6359
+- 📧 **Email:** [ansqhdgus200@hanmail.net](ansqhdgus200@hanmail.net)
+- 📱 **Phone:** 010-4240-0127
