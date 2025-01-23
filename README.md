@@ -1,11 +1,10 @@
 <h1 align="center"> 👋 안녕하세요 풀스택 개발자 문봉현 입니다.</h1>
-<h3 align="center">full-stack developer from Korea</h3>
 
 ---
 
 ## 👨‍💻 **About Me**  
 - 🛠️ **Skills:** Java, Spring Boot, React 등  
-- 🎯 **Goals:** 사용자 친화적이고 안정적인 서비스를 개발하는 풀스택 개발자
+- 🎯 **Goals:** 주어진 일은 끝까지 책임지는 개발자
 - 📚 **Learning:** MSA기반 자바 프론트엔드 백엔드 풀스택 웹(앱) 개발
 
 
@@ -18,10 +17,10 @@
 
 ## 🛠️ **Projects**  
 
-### 📌 **FIT NEXUS**  
+### 📌 **VORA**  
 - **기술 스택 :** Java, Spring Boot, HTML, CSS, JavaScript, MySQL  
-- **주제 :** 헬스장 관리 및 PT예약 시스템  
-- [FIT NEXUS GitHub 링크](https://github.com/LimeYun/MSA9_GYM)
+- **주제 :** 영화 예매 사이트
+- [VORA GitHub 링크](https://github.com/tnp22/aloha_3jo)
 
 
 ### 📌 **NetStar**  
@@ -32,8 +31,8 @@
 
 ---
 ## 📊 **GitHub Stats**  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LimeYun&layout=compact)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LimeYun)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bong127&layout=compact)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Bong127)
 
 ---
 
